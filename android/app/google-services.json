@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "1087710383114",
+    "project_id": "aplikasita-bad30",
+    "storage_bucket": "aplikasita-bad30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087710383114:android:0eae46540e065f0d4ae3f3",
+        "android_client_info": {
+          "package_name": "com.example.aplikasi_pengelola"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087710383114-7qag0jkh1aol9dt6ttbcf7fiudtik9dn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aplikasi_pengelola",
+            "certificate_hash": "40de2d2d92040e627679f6837fb15b3c953a2c39"
+          }
+        },
+        {
+          "client_id": "1087710383114-5355jeijngn4lgrns1d9v5ovlou80n9l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgAfP8TVt6OYkPYx8SjOwSy12fQfRwlE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087710383114-5355jeijngn4lgrns1d9v5ovlou80n9l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1087710383114-5n5jrghk5alf28ue4ucbgksgfr8j1ej5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.aplikasiPengelolaan"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087710383114:android:e2aa298dd4c19c294ae3f3",
+        "android_client_info": {
+          "package_name": "com.example.aplikasi_pengelolaan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087710383114-5355jeijngn4lgrns1d9v5ovlou80n9l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgAfP8TVt6OYkPYx8SjOwSy12fQfRwlE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087710383114-5355jeijngn4lgrns1d9v5ovlou80n9l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1087710383114-5n5jrghk5alf28ue4ucbgksgfr8j1ej5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.aplikasiPengelolaan"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
